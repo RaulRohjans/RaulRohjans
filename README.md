@@ -1,24 +1,15 @@
 # 💻 Raul Rohjans
 **Fullstack Software Engineer.**
 
+[![Linkedin Badge](https://img.shields.io/badge/-raulrohjans-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulrohjans/)](https://www.linkedin.com/in/raulrohjans/)
+[![Website Badge](https://img.shields.io/badge/-rohjans.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rohjans.com)](https://rohjans.com)
+[![Gmail Badge](https://img.shields.io/badge/-rauljann-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rauljann@gmail.com)](mailto:rauljann@gmail.com)
+
 Welcome to my profile! I'm a Fullstack developer currently working at Quidgest PT, as well as a student persuing a Bachelor's degree in Computer Science at Instituto Politécnico de Setúbal. I'm also open to freelancing opportunities, particularly for small to medium-sized projects, where I can deliver tailored, high-quality software solutions. 
 
 Feel free to explore my [portfolio](https://rohjans.com/) website for a closer look at my work, or connect with me on [LinkedIn](https://www.linkedin.com/in/raulrohjans/).
 
 Thank you for visiting my profile!
-
-<p align="left">
- 
-<a href="https://www.linkedin.com/in/raulrohjans/">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
-</a>
-<a href="mailto:rauljann@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-</a>
-<a href="https://rohjans.com/">
- <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"> 
-</a>
-</p>
 
 
 ### 📊 Stats

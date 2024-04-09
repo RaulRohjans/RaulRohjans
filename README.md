@@ -3,7 +3,7 @@
 
 Welcome to my profile! I'm a Fullstack developer currently working at Quidgest PT, as well as a student persuing a Bachelor's degree in Computer Science at Instituto Politécnico de Setúbal. I'm also open to freelancing opportunities, particularly for small to medium-sized projects, where I can deliver tailored, high-quality software solutions. 
 
-Feel free to explore my [portfolio website](https://rohjans.com/) website for a closer look at my work, or connect with me on [LinkedIn](https://www.linkedin.com/in/raulrohjans/).
+Feel free to explore my [portfolio](https://rohjans.com/) website for a closer look at my work, or connect with me on [LinkedIn](https://www.linkedin.com/in/raulrohjans/).
 
 Thank you for visiting my profile!
 
